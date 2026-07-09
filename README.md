@@ -2,7 +2,7 @@
 
 Task 01 of a 4-part frontend internship track. A responsive personal portfolio site built with HTML5, CSS3 and vanilla JavaScript — no frameworks, no build step.
 
-**Live site:** https://YOUR-USERNAME.github.io/portfolio/
+**Live site:** https://rohansharma7721.github.io/Protfolio/
 
 ## Sections
 
